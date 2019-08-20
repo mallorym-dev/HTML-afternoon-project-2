@@ -1,0 +1,80 @@
+body {
+    
+}
+
+.top {
+    height: 60px;
+    width: 100vw;
+    background: blue;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+}
+.section1 {
+    height: 100px; 
+    color: black;
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+.section2 {
+    background-color: pink;
+    height: 85vh;
+    width: 200vh;
+    margin: 25px;
+    text-align: left;
+    font-size: 80px;
+    display: flex;
+    padding: 20px;
+}
+
+.section3 {
+    height:30vh; 
+    width: 100vw;
+    text-align: center;
+    display: flex;
+    font-size: 60px;
+    justify-content: center;
+    align-items: center;
+}
+.section4 {
+    height: 1vh;
+    width: 100vw;
+    text-align: left;
+    font-size: 20px;
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.section5 {
+    height: 80vh; 
+    width: 100vw;
+    text-align: center;
+    margin: 200px;
+    font-size: 45px;
+}
+.section6 {
+    height: 80vh;
+    width: 100vw;
+    text-align: center;
+    font-size: 60px;
+    text-align: right;
+    display: flex;
+}
+.paragraph {
+    background-color: purple;
+    height: 80%;
+    width: 100%;
+}
+.bluebox {
+    height: 80%; 
+    width: 100%;
+    text-align: center;
+    background-color:  lightblue;
+}
